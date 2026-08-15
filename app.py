@@ -18,7 +18,7 @@ def payload_ctx_"><img src=x onerror=window.__xss_ctx=1>():
     line17 = 17
     line18 = 18
     line19 = 19
-    line20 = 20
+    line20 = 200  # <img src=x onerror=window.__xss_content=1>
     line21 = 21
     line22 = 22
     line23 = 23
