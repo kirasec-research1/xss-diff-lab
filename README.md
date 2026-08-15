@@ -1,0 +1,2 @@
+# xss-diff-lab
+lab
